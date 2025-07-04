@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/TestRepo/flaunt-it-app/static/js/main.efa54e89.js",
-    "index.html": "/TestRepo/flaunt-it-app/index.html",
-    "main.efa54e89.js.map": "/TestRepo/flaunt-it-app/static/js/main.efa54e89.js.map"
+    "main.js": "/TestRepo/static/js/main.c3529e8e.js",
+    "index.html": "/TestRepo/index.html",
+    "main.c3529e8e.js.map": "/TestRepo/static/js/main.c3529e8e.js.map"
   },
   "entrypoints": [
-    "static/js/main.efa54e89.js"
+    "static/js/main.c3529e8e.js"
   ]
 }
